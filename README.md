@@ -12,8 +12,7 @@ Kaden Guevarra, John Tomas
 
 ## Project Information
 - **Course**: ME405
-- **Due Date**: 0
-- 03/20/2026
+- **Due Date**: 03/20/2026
 - **Project Type**: Final Project
 
 ## Table of Contents
