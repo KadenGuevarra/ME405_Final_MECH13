@@ -34,7 +34,8 @@ To build this Romi, we had the starting kit provided by the ME405 Lab, which inc
 
 We then had to wire all of these into our Nucleo. For this, we created a Common Ground (GND). For the board power, we wired into VIN and GND. For our Motors, we wired the right motor into PA1 and PA0, and our left motor into PA8 and PA9. For our Encoders, we wired our right encoder into PB6, PA7, and PA6. Our left encoder is wired into PB4, PB5, and PB3. We wired our Line sensor into PC3, PC2, PC0, PC1, PB0, PA4, PC4, GND, and 3V3. We wired our IMU into (SCL)PB9, (SDA)PB8, GND, and 3V3. For our bump sensors, we wired the right side into PC13, PC14, and PC15. For the left side, we wired it into PC8, PC6, and PC5.
 
-
+##Wiring Excel File 
+[Download Raw Data (Excel)](./data/results.xlsx)
 
 ## Results
 [Key findings and results]
