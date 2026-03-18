@@ -42,7 +42,10 @@ We then had to wire all of these into our Nucleo. For this, we created a Common 
 [Download Raw Data (Excel)](https://cpslo-my.sharepoint.com/:x:/r/personal/ktguevar_calpoly_edu/Documents/FINAL_ROMI_WIRINGMAP.xlsx?d=wce03223d2b894929a85aa045309b94bb&csf=1&web=1&e=eps5Vk)
 
 ## Results
-[Key findings and results]
+After our demonstration, we were able to complete the course 1 out of 3 times. We ran into some consistency issues due to a few things. We had trouble properly using the heading with our IMU. 
+
+## Video of Romi
+[Watch the demo]((https://youtu.be/V55OzWEsSkU))
 
 ## Code Documentation
 - See `/source/` directory for source code files
