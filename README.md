@@ -48,7 +48,24 @@ During our demonstration, we completed the course 1 out of 3 times. Before the d
 [![Watch the video](https://img.youtube.com/vi/V55OzWEsSkU/maxresdefault.jpg)](https://youtu.be/V55OzWEsSkU)
 
 ## Code Documentation
-- See `/source/` directory for source code files
+Below this README, you will find the following source codes:
+- bump_sensor.py
+- cotask.py
+- encoder.py
+- estimator.py
+- imu_driver.py
+- linesensor_driver.py
+- main.py
+- motor_driver.py
+- multichar_input.py
+- task_bump.py
+- task_estimator.py
+- task_motor.py
+- task_navigator.py
+- task_share.py
+- task_start_button.py
+- task_user.py
+  
 
 ## Files Structure
 Below are all the files you need to flash into a ROMI built to match ours to recreate our project. After flashing all of the classes and the tasks, you want to either run main and follow the user interface to set all of the values. Or to do as we have exactly, you must flash the codes and then, with the use of the user button, it will automatically set all of the premeasured calibration values to run exactly as ours has. 
