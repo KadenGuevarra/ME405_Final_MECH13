@@ -18,8 +18,8 @@ Kaden Guevarra, John Tomas
 ## Table of Contents
 1. [Objectives](#objectives)
 2. [Design Specifications](#design-specifications)
-3. [Results](#results)
-4. [Code Documentation](#code-documentation)
+4. [Results](#results)
+5. [Code Documentation](#code-documentation)
 
 ## Objectives
 The Objective of this Final project was to put together all of the labs that we have done, 
