@@ -45,7 +45,7 @@ We then had to wire all of these into our Nucleo. For this, we created a Common 
 After our demonstration, we were able to complete the course 1 out of 3 times. We ran into some consistency issues due to a few things. We had trouble properly using the heading with our IMU. 
 
 ## Video of Romi
-<video src="path/to/video.mp4" width="640" height="360" controls></video>
+[![Watch the video](https://img.youtube.com/vi/V55OzWEsSkU/maxresdefault.jpg)](https://youtu.be/V55OzWEsSkU)
 
 ## Code Documentation
 - See `/source/` directory for source code files
